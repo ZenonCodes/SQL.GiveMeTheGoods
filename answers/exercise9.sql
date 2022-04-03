@@ -1,0 +1,1 @@
+SELECT * FROM Courses WHERE EnglishProductName BETWEEN 'ColdFusion' AND 'Python';
